@@ -2,6 +2,10 @@
 public class User{
 
 		private int age;
+
 		private String name; // master 加的
+
+		private int id; // 在main01分支上写的代码  
+
 }	
 	
